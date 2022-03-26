@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Alyan1
-- 👀 I’m interested in CyberSecuirty.
-- 🌱 I’m currently learning  cybersecuirty and website development.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Artificial Intelligence.
 - 📫 How to reach me alyanalam780@gmail.com
 
 <!---
